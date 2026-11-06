@@ -9,6 +9,7 @@ set(SERVER_SOURCES
     server/src/main.cpp
     server/src/solver_bridge.cpp
     server/src/audio_renderer.cpp
+    server/src/asset_curator.cpp
 )
 
 # Header Directory Inclusion
